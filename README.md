@@ -11,23 +11,23 @@ NodeJs and  NPM
 You need to clone (download) it to your local machine.
 
 ```bash
-  1. git clone https://github.com/kalpitjain/Face-Web.git
+  git clone https://github.com/kalpitjain/Face-Web.git
 ```
     
-Change Directory to faceweb
+2. Change Directory to faceweb
 
 ```bash
-  2. cd faceweb
+  cd faceweb
 ```
-Install NPM packages
+3. Install NPM packages
 
 ```bash
-  3. npm install
+  npm install
 ```
-Run Face Web using nodemon
+4. Run Face Web using nodemon
 
 ```bash
-  4. npm run faceWeb
+  npm run faceWeb
 ```
 ## Features
 
