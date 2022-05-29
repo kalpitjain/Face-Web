@@ -29,6 +29,12 @@ You need to clone (download) it to your local machine.
 ```bash
   node app.js
 ```
+5. Run Face Web on Browser
+
+```bash
+  localhost:3000
+```
+
 ## Features
 
 - Two Factor Authentication on Login Page
@@ -39,7 +45,7 @@ You need to clone (download) it to your local machine.
 
 ## Important Information
 
-There is a deployed web application on web for testing purpose. Link -> https://guarded-hamlet-23393.herokuapp.com/
+For Demo purposes There is a deployed web application on web for testing purpose. Link -> https://guarded-hamlet-23393.herokuapp.com/
 .This deployed web application only works for elon musk face which could be taken from google and can be shown to webcam.
 The testing Username is -> elon and password is elon@123.
 
