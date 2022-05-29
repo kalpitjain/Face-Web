@@ -1,0 +1,103 @@
+body {
+  background-color: #cff4e0;
+  color: #205072;
+  font-family: "Montserrat", sans-serif;
+}
+
+/*  Header */
+a {
+  padding-top: 2rem;
+  font-size: 2rem;
+  font-weight: 900;
+  text-decoration: none;
+  color: #205072;
+}
+
+a:hover {
+  color: #329d9c;
+}
+
+i:hover {
+  color: #329d9c;
+}
+
+img {
+  width: 4rem;
+}
+
+p {
+  position: relative;
+  font-weight: 600;
+  line-height: 1.5;
+}
+
+.btn {
+  height: 22rem;
+  margin: 10rem auto;
+  border-radius: 1rem;
+}
+
+.attendance {
+  background-color: rgb(255, 247, 201);
+}
+
+.payment {
+  background-color: rgb(229, 255, 187);
+}
+
+.detection {
+  background-color: rgb(187, 221, 255);
+}
+
+.fai-features {
+  text-align: center;
+  margin: 1rem auto 2rem;
+  font-size: 6rem;
+}
+
+.social-icon {
+  margin: 1.25rem 0.625rem;
+  font-size: 1.5rem;
+}
+
+.features-link {
+  position: relative;
+  left: 45rem;
+  margin: 1rem;
+  font-size: 1rem;
+}
+
+/* Header */
+#header {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  background-color: #a7edb8;
+  padding: 1rem 1rem;
+  z-index: 2;
+}
+
+/* Footer */
+#footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  background-color: #a7edb8;
+  padding: 0.5rem 1rem;
+  z-index: 2;
+}
+
+@media (max-width: 990px) {
+  .detection {
+    margin-top: -3rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .payment {
+    margin-top: -3rem;
+  }
+}

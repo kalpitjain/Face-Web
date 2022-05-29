@@ -1,0 +1,42 @@
+/* Tags CSS */
+
+h1 {
+  position: relative;
+  top: 7rem;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  margin-left: 35rem;
+}
+
+.camera-box {
+  width: 50rem;
+  height: 50rem;
+  position: relative;
+  background: transparent;
+}
+
+.camView {
+  position: relative;
+  float: left;
+  width: calc(100% - 20px);
+  margin: 0.625rem;
+  cursor: pointer;
+}
+
+/* Ids CSs */
+
+#webcam {
+  display: none;
+}
+
+#canvas {
+  height: 30rem;
+  width: 40rem;
+  position: relative;
+  top: 2.5rem;
+  left: -1rem;
+  border-radius: 3rem;
+  border: solid #56c596 0.5rem;
+  background-color: #56c596;
+  margin: 5rem;
+}
