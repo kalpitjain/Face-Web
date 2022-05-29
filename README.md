@@ -7,6 +7,14 @@ It has Two Factor Authentication on Login Page, and Direct Face Authentication f
 NodeJs and  NPM
 ## Installation
 
+## Features
+
+- Two Factor Authentication on Login Page
+- Payment Services - Transferring money just by Face Authentication
+- Attendence Update - Update your Attendence just by Face Authentication
+- Object Detection
+
+
 1. Clone it.
 You need to clone (download) it to your local machine.
 
@@ -35,19 +43,12 @@ You need to clone (download) it to your local machine.
   localhost:3000
 ```
 
-## Features
-
-- Two Factor Authentication on Login Page
-- Payment Services - Transferring money just by Face Authentication
-- Attendence Update - Update your Attendence just by Face Authentication
-- Object Detection
-
-
 ## Important Information
 
 For Demo purposes There is a deployed web application on web for testing purpose. Link -> https://guarded-hamlet-23393.herokuapp.com/
 .This deployed web application only works for elon musk face which could be taken from google and can be shown to webcam.
 The testing Username is -> elon and password is elon@123.
+
 
 
 
