@@ -62,7 +62,7 @@ Login Page
 
 Signup Page 
 <div style="display=flex;">
-<img src="./public/web_images/Readme Images/Signup.png" height="480" width="700" style="object-fit : cover;">
+<img src="./public/web_images/Readme Images/SignUp.png" height="480" width="700" style="object-fit : cover;">
 </div>
 
 Payment Page 
