@@ -54,5 +54,5 @@ The testing Username is -> elon and password is elon@123.
 #Screenshots
 
 <div style="display=flex;">
-<img src=".public/web_images/Readme-Images/Login.png" height="480" width="700" style="object-fit : cover;">
+<img src="Face-Web/public/web_images/Readme Images/Login.png" height="480" width="700" style="object-fit : cover;">
 </div>
