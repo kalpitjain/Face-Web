@@ -3,9 +3,6 @@
 
 Face Web is an authentication application that shows the usage of facial recognition in the field of authentication.
 It has Two Factor Authentication on Login Page, and Direct Face Authentication for Payments and for Updating your attendance just by your face.
-## Requirements
-NodeJs and  NPM
-## Installation
 
 ## Features
 
@@ -14,6 +11,11 @@ NodeJs and  NPM
 - Attendence Update - Update your Attendence just by Face Authentication
 - Object Detection
 
+## Requirements
+NodeJs and  NPM
+
+
+## Installation
 
 1. Clone it.
 You need to clone (download) it to your local machine.
