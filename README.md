@@ -69,3 +69,8 @@ Payment Page
 <div style="display=flex;">
 <img src="./public/web_images/Readme Images/Payment.png" height="480" width="700" style="object-fit : cover;">
 </div>
+
+Attendence Page 
+<div style="display=flex;">
+<img src="./public/web_images/Readme Images/Attendence.png" height="480" width="700" style="object-fit : cover;">
+</div>
