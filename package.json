@@ -2,13 +2,13 @@
   "name": "video-face-recogination",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node app.js",
+    "start": "node index.js",
     "faceWeb": "nodemon src/app.js -L -e js,html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Kalpit Jain",
+  "author": "Kalpit",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.20.0",
