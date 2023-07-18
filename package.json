@@ -1,15 +1,14 @@
 {
-  "name": "video-face-recogination",
+  "name": "video-face-recognition",
   "version": "1.0.0",
-  "description": "",
+  "description": "A Node.js Express app for video face recognition",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "build": "build",
-    "faceWeb": "nodemon src/app.js -L -e js,html",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "echo 'Build script goes here'",
+    "dev": "nodemon src/app.js -L -e js,html",
+    "test": "echo 'No test specified' && exit 1"
   },
-  "author": "Kalpit Jain",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.20.0",
